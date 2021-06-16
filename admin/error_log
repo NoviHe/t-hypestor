@@ -1,0 +1,174 @@
+[20-Apr-2021 15:37:33 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[20-Apr-2021 15:37:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[20-Apr-2021 15:37:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thyg1899/public_html/config.php on line 2
+[20-Apr-2021 15:37:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[20-Apr-2021 15:41:07 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[20-Apr-2021 15:41:07 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[20-Apr-2021 15:41:07 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thyg1899/public_html/config.php on line 2
+[20-Apr-2021 15:41:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[20-Apr-2021 15:41:49 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[20-Apr-2021 15:41:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[20-Apr-2021 15:41:49 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pemasukan.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[20-Apr-2021 15:41:49 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pemasukan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[20-Apr-2021 15:41:49 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pengeluaran.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[20-Apr-2021 15:41:49 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pengeluaran.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[20-Apr-2021 15:42:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/sign-out.php on line 2
+[20-Apr-2021 15:42:02 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/thyg1899/public_html/admin/sign-out.php on line 3
+[20-Apr-2021 15:42:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/sign-out.php:1) in /home/thyg1899/public_html/admin/sign-out.php on line 4
+[20-Apr-2021 15:42:09 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[20-Apr-2021 15:42:09 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[20-Apr-2021 15:42:09 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pemasukan.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[20-Apr-2021 15:42:09 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pemasukan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[20-Apr-2021 15:42:09 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pengeluaran.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[20-Apr-2021 15:42:09 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pengeluaran.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[20-Apr-2021 15:43:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[20-Apr-2021 15:43:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[20-Apr-2021 15:43:21 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pemasukan.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[20-Apr-2021 15:43:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pemasukan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[20-Apr-2021 15:43:21 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pengeluaran.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[20-Apr-2021 15:43:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pengeluaran.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[20-Apr-2021 15:52:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[20-Apr-2021 15:52:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[20-Apr-2021 15:52:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[20-Apr-2021 15:52:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[20-Apr-2021 16:08:22 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[20-Apr-2021 16:08:22 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[20-Apr-2021 16:08:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[20-Apr-2021 16:08:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:02:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:02:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:02:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:02:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:02:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:02:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:02:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:02:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:07:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:07:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:07:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:07:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:07:31 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:07:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:07:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:07:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:17:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:17:28 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:17:28 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:17:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:18:50 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:18:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:18:50 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:18:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:24:48 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:24:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:24:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:24:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:28:49 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:28:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:28:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:28:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:28:53 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:28:53 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:28:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:28:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 09:29:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 09:29:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 09:29:00 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thyg1899_admin'@'localhost' (using password: YES) in /home/thyg1899/public_html/config.php on line 2
+[16-Jun-2021 09:29:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/thyg1899/public_html/assets/scripts/script-data.php:11
+Stack trace:
+#0 /home/thyg1899/public_html/admin/assets/scripts/head.php(8): include()
+#1 /home/thyg1899/public_html/admin/monitoring.php(1): include('/home/thyg1899/...')
+#2 {main}
+  thrown in /home/thyg1899/public_html/assets/scripts/script-data.php on line 11
+[16-Jun-2021 10:04:44 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 10:04:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 10:04:44 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pemasukan.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[16-Jun-2021 10:04:44 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pemasukan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[16-Jun-2021 10:04:44 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pengeluaran.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[16-Jun-2021 10:04:44 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pengeluaran.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[16-Jun-2021 10:06:24 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 10:06:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 10:06:24 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pemasukan.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[16-Jun-2021 10:06:24 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pemasukan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[16-Jun-2021 10:06:24 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pengeluaran.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[16-Jun-2021 10:06:24 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pengeluaran.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[16-Jun-2021 10:06:30 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/sign-out.php on line 2
+[16-Jun-2021 10:06:30 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/thyg1899/public_html/admin/sign-out.php on line 3
+[16-Jun-2021 10:06:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/sign-out.php:1) in /home/thyg1899/public_html/admin/sign-out.php on line 4
+[16-Jun-2021 12:07:10 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 12:07:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 12:07:10 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pemasukan.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[16-Jun-2021 12:07:10 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pemasukan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[16-Jun-2021 12:07:10 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pengeluaran.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[16-Jun-2021 12:07:10 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pengeluaran.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[16-Jun-2021 13:12:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 3
+[16-Jun-2021 13:12:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thyg1899/public_html/admin/monitoring.php:1) in /home/thyg1899/public_html/admin/assets/scripts/head.php on line 5
+[16-Jun-2021 13:12:27 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pemasukan.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[16-Jun-2021 13:12:27 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pemasukan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 12
+[16-Jun-2021 13:12:27 Asia/Jakarta] PHP Warning:  include(assets/data/form-tambah-pengeluaran.php): failed to open stream: No such file or directory in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
+[16-Jun-2021 13:12:27 Asia/Jakarta] PHP Warning:  include(): Failed opening 'assets/data/form-tambah-pengeluaran.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/thyg1899/public_html/admin/assets/scripts/modals.php on line 112
